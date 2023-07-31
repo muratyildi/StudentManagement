@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "aaJIW1Io5HHMjV06hJXBHM2rNIp0mJKEhq01fqpTurGb0dzFvhuZB4aVSdSH1v4IzhNkSyEyNloQZFjU4fNDfA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Taylan\\Desktop\\projelerim\\netcore\\StudentManagement\\Infrastructure.Web\\Infrastructure.Web.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Taylan\\Desktop\\projelerim\\netcore\\StudentManagement\\StorageManager\\StorageManager.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Taylan\\Desktop\\projelerim\\netcore\\StudentManagement\\StorageManager\\StorageManager.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Taylan\\Desktop\\projelerim\\netcore\\StudentManagement\\Entities\\Entities.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Taylan\\Desktop\\projelerim\\netcore\\StudentManagement\\Entities\\Entities.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

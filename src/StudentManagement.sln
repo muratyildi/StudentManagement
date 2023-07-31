@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entites", "Entites\Entites.csproj", "{7D4FAE0C-4FF8-4586-900C-37B30DB99B47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{F7A99396-5060-48B0-ADBE-8E06B4B20285}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{E8E1C103-62B3-496B-A23A-2310629E94E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Admin.API", "Admin.API\Admin.API.csproj", "{01B308D3-2F72-4E9F-9114-5204C2923DBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentations", "Presentations", "{3FF4276D-01EE-4468-85F9-5BFA67573794}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "D:\Projects\Montent\video generator\video-generator\ui-api\src\Infrastructure\Infrastructure.csproj", "{C2684C75-6924-4517-950B-974258E3D4A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Web", "D:\Projects\Montent\video generator\video-generator\ui-api\src\Infrastructure.Web\Infrastructure.Web.csproj", "{7DA4BB35-D3A0-4847-8BC6-DF8E9C5DFBF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D4FAE0C-4FF8-4586-900C-37B30DB99B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4FAE0C-4FF8-4586-900C-37B30DB99B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4FAE0C-4FF8-4586-900C-37B30DB99B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4FAE0C-4FF8-4586-900C-37B30DB99B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A99396-5060-48B0-ADBE-8E06B4B20285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A99396-5060-48B0-ADBE-8E06B4B20285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A99396-5060-48B0-ADBE-8E06B4B20285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A99396-5060-48B0-ADBE-8E06B4B20285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B308D3-2F72-4E9F-9114-5204C2923DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B308D3-2F72-4E9F-9114-5204C2923DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B308D3-2F72-4E9F-9114-5204C2923DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B308D3-2F72-4E9F-9114-5204C2923DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2684C75-6924-4517-950B-974258E3D4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2684C75-6924-4517-950B-974258E3D4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2684C75-6924-4517-950B-974258E3D4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2684C75-6924-4517-950B-974258E3D4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA4BB35-D3A0-4847-8BC6-DF8E9C5DFBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA4BB35-D3A0-4847-8BC6-DF8E9C5DFBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA4BB35-D3A0-4847-8BC6-DF8E9C5DFBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA4BB35-D3A0-4847-8BC6-DF8E9C5DFBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7D4FAE0C-4FF8-4586-900C-37B30DB99B47} = {E8E1C103-62B3-496B-A23A-2310629E94E0}
+		{F7A99396-5060-48B0-ADBE-8E06B4B20285} = {E8E1C103-62B3-496B-A23A-2310629E94E0}
+		{01B308D3-2F72-4E9F-9114-5204C2923DBB} = {3FF4276D-01EE-4468-85F9-5BFA67573794}
+		{C2684C75-6924-4517-950B-974258E3D4A9} = {E8E1C103-62B3-496B-A23A-2310629E94E0}
+		{7DA4BB35-D3A0-4847-8BC6-DF8E9C5DFBF8} = {E8E1C103-62B3-496B-A23A-2310629E94E0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEEB8FA6-825A-4F71-A33C-03957A67D068}
+	EndGlobalSection
+EndGlobal

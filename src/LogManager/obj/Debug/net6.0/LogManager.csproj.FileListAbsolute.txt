@@ -1,0 +1,12 @@
+D:\Projects\Montent\video generator\video-generator\ui-api\src\LogManager\bin\Debug\net6.0\LogManager.deps.json
+D:\Projects\Montent\video generator\video-generator\ui-api\src\LogManager\bin\Debug\net6.0\LogManager.dll
+D:\Projects\Montent\video generator\video-generator\ui-api\src\LogManager\bin\Debug\net6.0\LogManager.pdb
+D:\Projects\Montent\video generator\video-generator\ui-api\src\LogManager\obj\Debug\net6.0\LogManager.csproj.AssemblyReference.cache
+D:\Projects\Montent\video generator\video-generator\ui-api\src\LogManager\obj\Debug\net6.0\LogManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Montent\video generator\video-generator\ui-api\src\LogManager\obj\Debug\net6.0\LogManager.AssemblyInfoInputs.cache
+D:\Projects\Montent\video generator\video-generator\ui-api\src\LogManager\obj\Debug\net6.0\LogManager.AssemblyInfo.cs
+D:\Projects\Montent\video generator\video-generator\ui-api\src\LogManager\obj\Debug\net6.0\LogManager.csproj.CoreCompileInputs.cache
+D:\Projects\Montent\video generator\video-generator\ui-api\src\LogManager\obj\Debug\net6.0\LogManager.dll
+D:\Projects\Montent\video generator\video-generator\ui-api\src\LogManager\obj\Debug\net6.0\refint\LogManager.dll
+D:\Projects\Montent\video generator\video-generator\ui-api\src\LogManager\obj\Debug\net6.0\LogManager.pdb
+D:\Projects\Montent\video generator\video-generator\ui-api\src\LogManager\obj\Debug\net6.0\ref\LogManager.dll

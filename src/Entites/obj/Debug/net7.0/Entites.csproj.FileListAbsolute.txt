@@ -1,0 +1,12 @@
+C:\Users\Taylan\Desktop\projelerim\netcore\StudentManagement\Entites\obj\Debug\net7.0\Entites.csproj.AssemblyReference.cache
+C:\Users\Taylan\Desktop\projelerim\netcore\StudentManagement\Entites\obj\Debug\net7.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taylan\Desktop\projelerim\netcore\StudentManagement\Entites\obj\Debug\net7.0\Entites.AssemblyInfoInputs.cache
+C:\Users\Taylan\Desktop\projelerim\netcore\StudentManagement\Entites\obj\Debug\net7.0\Entites.AssemblyInfo.cs
+C:\Users\Taylan\Desktop\projelerim\netcore\StudentManagement\Entites\obj\Debug\net7.0\Entites.csproj.CoreCompileInputs.cache
+C:\Users\Taylan\Desktop\projelerim\netcore\StudentManagement\Entites\bin\Debug\net7.0\Entites.deps.json
+C:\Users\Taylan\Desktop\projelerim\netcore\StudentManagement\Entites\bin\Debug\net7.0\Entites.dll
+C:\Users\Taylan\Desktop\projelerim\netcore\StudentManagement\Entites\bin\Debug\net7.0\Entites.pdb
+C:\Users\Taylan\Desktop\projelerim\netcore\StudentManagement\Entites\obj\Debug\net7.0\Entites.dll
+C:\Users\Taylan\Desktop\projelerim\netcore\StudentManagement\Entites\obj\Debug\net7.0\refint\Entites.dll
+C:\Users\Taylan\Desktop\projelerim\netcore\StudentManagement\Entites\obj\Debug\net7.0\Entites.pdb
+C:\Users\Taylan\Desktop\projelerim\netcore\StudentManagement\Entites\obj\Debug\net7.0\ref\Entites.dll
